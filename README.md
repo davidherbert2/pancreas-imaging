@@ -8,7 +8,11 @@ Simple Python script to read image metadata (specifically transplantability cons
 ./<image_number>_right.png  
 ```
 
-Note that the source images are assumed to be in landscape format; the output images will generally contain some overlapping area.
+Note that the source images are assumed to be in landscape format; the output images will generally contain some overlapping area.  The source images are in Sharepoint at:
+
+```
+https://newcastle.sharepoint.com/:f:/r/sites/DigitalInstitute581/Shared%20Documents/Research/RSE%20Team/Projects/Pancreas%20Transplant%20Viability/Training%20Images?csf=1&e=00H1NQ
+```
 
 Script requires pandas and pillow Python libraries (former installed by default in Anaconda, the other requires:
 
